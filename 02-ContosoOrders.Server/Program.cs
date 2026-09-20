@@ -1,6 +1,5 @@
 // ============================================================
 // DEMO 2 — "ContosoOrders" : a real MCP server over HTTP
-// Pre-built. You walk through this one, you do not type it.
 // ============================================================
 // Setup:
 //   dotnet new web -n ContosoOrders.Server
