@@ -2,7 +2,7 @@
 // DEMO 1 — "Hello MCP"
 // The smallest useful MCP server. You will TYPE this one live.
 // ============================================================
-// Setup (run these first, before the webinar):
+// Setup :
 //   dotnet new console -n HelloMcp
 //   cd HelloMcp
 //   dotnet add package ModelContextProtocol
